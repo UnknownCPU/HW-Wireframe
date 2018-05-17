@@ -1,0 +1,79 @@
+#header {
+    width: 1000px;
+    height: 70px;
+    background-color: yellow;
+    position: relative;
+    left: 250px;
+    text-align: center;
+
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+body {
+    font-family: Arial, Helvetica, Helvetica, sans-serif;
+    color: white;
+    background: #777;
+    font-size: 18px;
+
+}
+
+.main_menu{
+    width: 960px;
+    background-color: green; 
+    position: relative;
+    left: 250px;
+    list-style-type: none;
+    text-align: center;
+}
+
+#section {
+    float: left;
+    background-color: rebeccapurple;
+    width: 635px;
+    height: 400px;
+    position: relative;
+    left: 250px;
+    text-align: center;
+}
+
+#article {
+    background-color: aqua;
+    width: 300px;
+    height: 100px;
+    position: relative;
+    left:175px;
+    text-align: center;
+}
+
+#aside {
+    float: left;
+    Background-color: blue;
+    width: 350px;
+    height: 400px;
+    position: relative;
+    left: 265px;
+    text-align: center;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    clear: both;
+    background-color: red;
+    position: relative;
+    top: 10px;
+    left: 250px;
+    width: 1000px;
+    height: 100px;
+    text-align: center;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+
+
